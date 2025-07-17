@@ -24,7 +24,9 @@ The system uses your webcam to detect faces and classify emotions in real-time, 
 * **Face Detection:** OpenCV Haar cascades
 
 ---
-
+ Recommended Kaggle Dataset:
+FER-2013: Facial Expression Recognition
+🔗 Link: https://www.kaggle.com/datasets/msambare/fer2013
 ### 🗂 Dataset Format
 
 Organize your dataset as follows:
